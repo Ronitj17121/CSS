@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> card </title>
+</head>
+<body>
+<img src="images/rnd.gif>"
+<h1 align="center">Red And White Multimidia Education</h1>
+
+</body>
+</html>
